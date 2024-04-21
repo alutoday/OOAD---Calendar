@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|c:\\users\\lenovo\\source\\repos\\ooad_alutoday\\ooad_alutoday\\create_appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\create_appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\mainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\mainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\mainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\mainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\create_appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\create_appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\appointment_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\appointment_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\appointment_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\appointment_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\group_meeting_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\group_meeting_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\ooad_alutoday\\group_meeting_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3509B2BA-EE69-4B3D-AB44-95C611ADDB83}|OOAD_alutoday\\OOAD_alutoday.csproj|solutionrelative:ooad_alutoday\\group_meeting_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainUI.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\MainUI.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\MainUI.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\MainUI.cs",
+              "RelativeToolTip": "OOAD_alutoday\\MainUI.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:22:01.479Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create_appointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Create_appointment.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\Create_appointment.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Create_appointment.cs [Design]",
+              "RelativeToolTip": "OOAD_alutoday\\Create_appointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:59:25.723Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\MainUI.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\MainUI.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\MainUI.cs [Design]",
+              "RelativeToolTip": "OOAD_alutoday\\MainUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:20:55.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Login.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\Login.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Login.cs",
+              "RelativeToolTip": "OOAD_alutoday\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:58:50.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create_appointment.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Create_appointment.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\Create_appointment.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Create_appointment.cs",
+              "RelativeToolTip": "OOAD_alutoday\\Create_appointment.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAjwOcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:59:27.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Login.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\Login.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Login.cs [Design]",
+              "RelativeToolTip": "OOAD_alutoday\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:58:47.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment_manager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Appointment_manager.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\Appointment_manager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Appointment_manager.cs [Design]",
+              "RelativeToolTip": "OOAD_alutoday\\Appointment_manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:51:46.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControl2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\UserControl2.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\UserControl2.cs [Design]",
+              "RelativeToolTip": "OOAD_alutoday\\UserControl2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:08:44.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControl2.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\UserControl2.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\UserControl2.cs",
+              "RelativeToolTip": "OOAD_alutoday\\UserControl2.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:24:34.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Detail.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\Detail.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Detail.cs",
+              "RelativeToolTip": "OOAD_alutoday\\Detail.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:53:25.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Appointment_manager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Appointment_manager.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\Appointment_manager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Appointment_manager.cs",
+              "RelativeToolTip": "OOAD_alutoday\\Appointment_manager.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:02:34.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Detail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Detail.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\Detail.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Detail.cs [Design]",
+              "RelativeToolTip": "OOAD_alutoday\\Detail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:51:02.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Group_meeting_manager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Group_meeting_manager.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\Group_meeting_manager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Group_meeting_manager.cs",
+              "RelativeToolTip": "OOAD_alutoday\\Group_meeting_manager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:02:11.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Group_meeting_manager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Group_meeting_manager.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\Group_meeting_manager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Group_meeting_manager.cs [Design]",
+              "RelativeToolTip": "OOAD_alutoday\\Group_meeting_manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:02:09.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "OOAD_alutoday\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOAD_alutoday\\OOAD_alutoday\\Login.Designer.cs",
+              "RelativeToolTip": "OOAD_alutoday\\Login.Designer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAApwC4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:29:40.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
